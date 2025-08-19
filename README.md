@@ -112,4 +112,14 @@ DELETE /reviews/{review_id}/ - Delete a specific review
 6. Features
 7. Review system
 
+# API Security
+1. authentification: crosschecking user passwords and sign in details
+2. authorization: giving user feedback when given access to the database
+3. rate limiting: limit number of password and bookings
+### security
+security is important so as to protect personal data of users and financial information
+
+
+
+
 
