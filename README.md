@@ -58,4 +58,13 @@ Endpoints: /reviews/, /reviews/{review_id}/
 9. Software architect: Designs a high-level software architecture
 10. Software developer: Engineers and stabilizes the product
 11. Test automation engineer: Designs a test automation ecosystem
-12. 
+
+# Technology Stack
+1. Django: A high-level Python web framework used for building the RESTful API.
+2. Django REST Framework: Provides tools for creating and managing RESTful APIs.
+3. PostgreSQL: A powerful relational database used for data storage.
+4. GraphQL: Allows for flexible and efficient querying of data.
+5. Celery: For handling asynchronous tasks such as sending notifications or processing payments.
+6. Redis: Used for caching and session management.
+7. Docker: Containerization tool for consistent development and deployment environments.
+8. CI/CD Pipelines: Automated pipelines for testing and deploying code changes.
