@@ -119,6 +119,13 @@ DELETE /reviews/{review_id}/ - Delete a specific review
 ### security
 security is important so as to protect personal data of users and financial information
 
+# CI/CD Pipeline
+A CI/CD pipeline consists of several automated stages that a new code change must pass through.  Developers merge their code frequently, and the pipeline automatically builds and runs tests to ensure the new code integrates smoothly without breaking the existing codebase. Tools that can be used for this include:
+1. GitHub Actions
+2. Azure DevOps
+3. Kubernetes
+4. Jenkins
+
 
 
 
